@@ -37,11 +37,13 @@
   }
 
   .logopic {
+    
     display: inline-block; 
     width: 100%; 
     padding-left: 5%; 
     padding-right: 6%;
     margin-top: -5%;
+
   }
 
   .text {
@@ -150,11 +152,11 @@
   }
 
   .egr {
-    float: left;
-    font-size: 32px;
+  float: left;
+  font-size: 32px;
   line-height: 32px;
   font-family: Inter, Arial, sans-serif;
-  }
+   }
 
   .rge {
     font-family: Inter, Arial, sans-serif; 
@@ -184,7 +186,6 @@
   .polar {
     width: 536px;
     display: inline-block; 
-    width: 100%; 
     max-width: 180px; 
     margin-right: 380px;
   }
