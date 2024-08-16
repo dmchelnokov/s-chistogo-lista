@@ -37,13 +37,11 @@
   }
 
   .logopic {
-    
-    display: inline-block; 
-    width: 100%; 
-    padding-left: 5%; 
+    display: inline-block;
+    width: 100%;
+    padding-left: 5%;
     padding-right: 6%;
     margin-top: -5%;
-
   }
 
   .text {
