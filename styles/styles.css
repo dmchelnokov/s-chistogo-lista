@@ -1,55 +1,55 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
   }
   
   body {
-    min-width: 850px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
-    background-color: black;
-    max-width: 40%;
+  min-width: 850px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  background-color: black;
+  max-width: 40%;
   }
 
   .header {
-    padding: 50px;
-    text-align: right;
+  padding: 50px;
+  text-align: right;
   }
   
   .menu-link {
-    position: relative;
-    display: flex;
-    justify-content: right;
-    gap: 35px;
-    padding-bottom: 3%;
+  position: relative;
+  display: flex;
+  justify-content: right;
+  gap: 35px;
+  padding-bottom: 3%;
   }
   
   .menu-link + .menu-link::before {
-    bottom: 7px;
-    left: -15px;
-    width: 6px;
-    height: 6px;
+  bottom: 7px;
+  left: -15px;
+  width: 6px;
+  height: 6px;
   }
 
   .link1 {
     
-    float: left;
+  float: left;
   }
 
   .logopic {
-    display: inline-block;
-    width: 100%;
-    padding-left: 5%;
-    padding-right: 6%;
-    margin-top: -5%;
+  display: inline-block;
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 6%;
+  margin-top: -5%;
   }
 
   .text {
 
-    font-family: Inter, Arial, sans-serif; 
-    font-size: 18px; 
-    color: #ffffff; 
-    line-height: 32px; 
-    margin-top: 30px; 
+  font-family: Inter, Arial, sans-serif; 
+  font-size: 18px; 
+  color: #ffffff; 
+  line-height: 32px; 
+  margin-top: 30px; 
   
   }
 
@@ -62,38 +62,38 @@
 
   .date {
 
-    float: right;
-    padding-right: 5%;
+  float: right;
+  padding-right: 5%;
 
   }
 
   .text2 {
 
-    font-family: Inter, Arial, sans-serif; 
-    font-size: 18px; 
-    color: #ffffff; 
-    line-height: 32px;
-    float: left;
-    padding-left: 5%;
-    padding-right: 5%;
+  font-family: Inter, Arial, sans-serif; 
+  font-size: 18px; 
+  color: #ffffff; 
+  line-height: 32px;
+  float: left;
+  padding-left: 5%;
+  padding-right: 5%;
 
   }
 
   .text3 {
 
-    background-color: yellow;
-    min-width: 850px;
-    margin: 0;
-    font-family: Inter, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 32px;
-    color: black;
-    max-width: 40%;
-    padding-left: 5%;
-    padding-right: 5%;
-    display: inline-block; 
-    padding-top: 5%;
-    padding-bottom: 1%;
+  background-color: yellow;
+  min-width: 850px;
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: black;
+  max-width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block; 
+  padding-top: 5%;
+  padding-bottom: 1%;
 
   }
 
@@ -108,65 +108,65 @@
 
   .cba {
 
-    float: left;
-    font-size: 32px;
-    line-height: 32px;
-    font-family: Inter, Arial, sans-serif;
+  float: left;
+  font-size: 32px;
+  line-height: 32px;
+  font-family: Inter, Arial, sans-serif;
 
   }
 
   .bca {
 
-    font-family: Inter, Arial, sans-serif; 
-    font-size: 18px; 
-    color: #000000; 
-    line-height: 32px;
-    padding-top: 10%;
+  font-family: Inter, Arial, sans-serif; 
+  font-size: 18px; 
+  color: #000000; 
+  line-height: 32px;
+  padding-top: 10%;
 
   }
 
   .tre {
 
-    background-color: yellow;
-    min-width: 850px;
-    margin: 0;
-    font-family: Inter, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 32px;
-    color: black;
-    max-width: 40%;
-    padding-left: 5%;
-    padding-right: 5%;
-    display: inline-block; 
-    padding-top: 2%;
-    padding-bottom: 5%;
+  background-color: yellow;
+  min-width: 850px;
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: black;
+  max-width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block; 
+  padding-top: 2%;
+  padding-bottom: 5%;
 
   }
 
   .text8 {
 
-    background-color: black;
-    min-width: 850px;
-    margin: 0;
-    font-family: Inter, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 32px;
-    color: rgb(242, 235, 235);
-    max-width: 40%;
-    padding-left: 5%;
-    padding-right: 5%;
-    display: inline-block; 
-    padding-top: 5%;
-    padding-bottom: 1%;
+  background-color: black;
+  min-width: 850px;
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: rgb(242, 235, 235);
+  max-width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block; 
+  padding-top: 5%;
+  padding-bottom: 1%;
 
   }
 
   .gre {
-    float: right;
-    font-size: 32px;
-    line-height: 32px;
-    font-family: Inter, Arial, sans-serif;
-    
+  float: right;
+  font-size: 32px;
+  line-height: 32px;
+  font-family: Inter, Arial, sans-serif;
+
   }
 
   .egr {
@@ -174,98 +174,98 @@
   font-size: 32px;
   line-height: 32px;
   font-family: Inter, Arial, sans-serif;
-   }
+  }
 
   .rge {
-    font-family: Inter, Arial, sans-serif; 
-    font-size: 18px; 
-    color: #ffffff; 
-    line-height: 32px;
-    padding-top: 10%;
-    padding-bottom: 1%;
+  font-family: Inter, Arial, sans-serif; 
+  font-size: 18px; 
+  color: #ffffff; 
+  line-height: 32px;
+  padding-top: 10%;
+  padding-bottom: 1%;
   }
 
   .table1 {
-    background-color: #343434; 
-    border-radius: 24px; 
-    padding-right: 32px; 
-    padding-left: 32px; 
-    padding-bottom: 24px; 
-    padding-top: 5%;
-    margin-bottom: 5%;
-    width:100%;
+  background-color: #343434; 
+  border-radius: 24px; 
+  padding-right: 32px; 
+  padding-left: 32px; 
+  padding-bottom: 24px; 
+  padding-top: 5%;
+  margin-bottom: 5%;
+  width:100%;
 
   }
 
   .table1-2 {
-    width:100%;
+  width:100%;
   }
 
   .polar {
-    width: 536px;
-    display: inline-block; 
-    margin-right: 380px;
+  width: 536px;
+  display: inline-block; 
+  margin-right: 380px;
   }
 
   .hgr {
-    text-align: left;
-    padding-bottom: 8px; 
-    padding-top: 8px;
-    font-family: EB Garamond, Arial, sans-serif; 
-    color: #ffffff; 
-    font-size: 24px; 
-    line-height: 32px; 
-    font-weight: 700;
-    margin: 0px 0px 16px 0px;
+  text-align: left;
+  padding-bottom: 8px; 
+  padding-top: 8px;
+  font-family: EB Garamond, Arial, sans-serif; 
+  color: #ffffff; 
+  font-size: 24px; 
+  line-height: 32px; 
+  font-weight: 700;
+  margin: 0px 0px 16px 0px;
     
   }
 
   .table2 {
-    background-color: yellow; 
-    border-radius: 24px; 
-    padding-right: 32px; 
-    padding-left: 32px; 
-    padding-bottom: 24px; 
-    padding-top: 1%;
-    margin-bottom: 5%;
-    width:100%;
+  background-color: yellow; 
+  border-radius: 24px; 
+  padding-right: 32px; 
+  padding-left: 32px; 
+  padding-bottom: 24px; 
+  padding-top: 1%;
+  margin-bottom: 5%;
+  width:100%;
 
   }
 
   .table2-1 {
-    width:100%;
+  width:100%;
   }
 
   .bnn {
-    text-align: left;
-    padding-bottom: 8px; 
-    padding-top: 8px;
-    font-family: EB Garamond, Arial, sans-serif; 
-    color: #000000; 
+  text-align: left;
+  padding-bottom: 8px; 
+  padding-top: 8px;
+  font-family: EB Garamond, Arial, sans-serif; 
+  color: #000000; 
     
-    font-size: 24px; 
+  font-size: 24px; 
     
-    line-height: 32px; 
+  line-height: 32px; 
     
-    font-weight: 700;
+  font-weight: 700;
     
-    margin: 0px 0px 16px 0px;
+  margin: 0px 0px 16px 0px;
   }
 
   .nnb {
-    font-family: Inter, Arial, sans-serif; 
+  font-family: Inter, Arial, sans-serif; 
     
-    font-size: 18px; 
+  font-size: 18px; 
     
-    color: #0e0e0e; 
+  color: #0e0e0e; 
     
-    line-height: 32px;
+  line-height: 32px;
     
-    padding-top: 2%;
+  padding-top: 2%;
 
-    padding-bottom: 1%;
+  padding-bottom: 1%;
   }
 
-  .line {
-    width: 100%;
+ .line {
+  width: 100%;
   }
